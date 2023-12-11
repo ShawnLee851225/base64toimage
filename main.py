@@ -10,7 +10,7 @@ df = pd.read_excel(data_path)
 # all data
 # print(df)
 
-# print one data
+# # print one data
 # data = df["Unnamed: 0"][5]
 # data = data.replace('\\', '').replace('\"signimg\" : \"', '')
 # while len(data) % 4 != 0:
